@@ -4,7 +4,7 @@
  * Alumno: Sergio Montero Vadillo
  * DNI: 53426672-H 
  * Actividad : Actividad 1 / Hilos y Socket
- * Última modificación: 21/7/2022
+ * Última modificación: 26/11/2022
  ****************************************************/
 
 import java.io.BufferedReader;
